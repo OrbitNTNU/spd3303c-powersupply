@@ -1,0 +1,3 @@
+# SPD3303C Power supply interface
+
+This is a python interface for the SPD3303C power supply, allowing remote control of the power supply.
